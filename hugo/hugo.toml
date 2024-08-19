@@ -1,13 +1,13 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://steele-horse.com/'
 languageCode = 'en-us'
-title = "Steele Horse"
+title = "Steele Horse LLC"
 theme = "hugo-coder"
 
 paginate = 20
 
-[services]
-[services.disqus]
-disqusShortname = "yourdiscussshortname"
+#[services]
+#[services.disqus]
+#disqusShortname = "yourdiscussshortname"
 
 [markup.highlight]
 style = "github-dark"
@@ -46,17 +46,16 @@ style = "github-dark"
   name = "Github"
   icon = "fa-brands fa-github fa-2x"
   weight = 1
-  url = "https://github.com/johndoe/"
-[[params.social]]
-  name = "Gitlab"
-  icon = "fa-brands fa-gitlab fa-2x"
-  weight = 2
-  url = "https://gitlab.com/johndoe/"
+  url = "https://github.com/foobarbam/"
 [[params.social]]
   name = "Twitter"
   icon = "fa-brands fa-x-twitter fa-2x"
   weight = 3
-  url = "https://twitter.com/johndoe/"
+  url = "https://x.com/foobarbam"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa-brands fa-linkedin fa-2x"
+  url = "https://www.linkedin.com/in/jeremy-c-107b5bb3/"
 
 # Menu links
 [[menu.main]]
@@ -67,3 +66,7 @@ style = "github-dark"
   name = "About"
   weight = 2
   url = "about/"
+[[menu.main]]
+  name = "Resume"
+  weight = 3
+  url = "resume/"
