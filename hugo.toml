@@ -13,18 +13,18 @@ disqusShortname = "yourdiscussshortname"
 style = "github-dark"
 
 [params]
-  author = "John Doe"
-  info = "Full Stack DevOps and Magician"
-  description = "John Doe's personal website"
+  author = "Jeremy Chalfant"
+  info = "DevOps Engineer and Systems Administrator"
+  description = "Jeremy Chalfant's personal website"
   keywords = "blog,developer,personal"
-  avatarurl = "images/avatar.jpg"
-  #gravatar = "john.doe@example.com"
+  avatarurl = "images/logo1-inverted.png"
+  #gravatar = "jeremy.chalfant@protonmail.com"
 
-  faviconSVG = "/img/favicon.svg"
-  favicon_32 = "/img/favicon-32x32.png"
-  favicon_16 = "/img/favicon-16x16.png"
+  faviconSVG = "/images/logo1-inverted-favico.svg"
+  #favicon_32 = "/img/favicon-32x32.png"
+  #favicon_16 = "/img/favicon-16x16.png"
 
-  since = 2019
+  since = 2023
 
   enableTwemoji = true
 
