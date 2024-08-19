@@ -63,10 +63,10 @@ style = "github-dark"
   weight = 1
   url  = "posts/"
 [[menu.main]]
-  name = "About"
-  weight = 2
-  url = "about/"
-[[menu.main]]
   name = "Resume"
-  weight = 3
+  weight = 2
   url = "resume/"
+[[menu.main]]
+  name = "About"
+  weight = 3
+  url = "about/"
