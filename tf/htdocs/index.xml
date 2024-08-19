@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steele Horse LLC</title>
+    <link>https://steele-horse.com/</link>
+    <description>Recent content on Steele Horse LLC</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Aug 2024 13:53:18 -0500</lastBuildDate>
+    <atom:link href="https://steele-horse.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jeremy Chalfant</title>
+      <link>https://steele-horse.com/resume/</link>
+      <pubDate>Mon, 19 Aug 2024 13:53:18 -0500</pubDate>
+      <guid>https://steele-horse.com/resume/</guid>
+      <description>jeremy.chalfant@protonmail.com&#xA;Applications, Systems, Cloud, Infrastructure, and DevOps engineering with focus and expertise in automation for secure, consistent configuration, accurate, and repeatable deployments.&#xA;Technologies Link to heading Redhat/SUSE/Debian Linux, AIX, Windows, git, github, Active Directory, FreeIPA, Samba, MySQL/MariaDB, PostgreSQL, Oracle, Docker, Kubernetes, VMware, Jenkins, Chef, Ansible, and Vagrant.&#xA;Languages Link to heading Bash, Perl, Python, Ruby, PHP, and C&#xA;Experience Link to heading Armis Inc — Senior DevOps Engineer Link to heading July 2020 - September 2023</description>
+    </item>
+  </channel>
+</rss>
