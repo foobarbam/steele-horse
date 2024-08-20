@@ -3,6 +3,10 @@ locals {
   domain_names = concat([var.domain_name], local.sans)
   htmldir      = "../hugo/public"
 
+  tags = {
+    Name = var.domain_name
+  }
+
   mime_types = {
     ".js"      = "application/javascript"
     ".map"     = "application/javascript"
@@ -32,9 +36,5 @@ locals {
     ".mp4"     = "video/mp4"
     ".webm"    = "video/webm"
     ".ogg"     = "video/ogg"
-  }
-
-  tags = {
-    Name = var.domain_name
   }
 }
