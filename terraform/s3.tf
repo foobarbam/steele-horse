@@ -77,10 +77,10 @@ resource "aws_s3_bucket_policy" "this" {
 # * Enable versioning
 resource "aws_s3_object" "this" {
   bucket       = aws_s3_bucket.this.bucket
-  for_each     = fileset("htdocs/", "**")
+  for_each     = fileset("${local.htmldir}/", "**")
   key          = each.value
-  source       = "htdocs/${each.value}"
-  etag         = filemd5("htdocs/${each.value}")
+  source       = "${local.htmldir}/${each.value}"
+  etag         = filemd5("${local.htmldir}/${each.value}")
   content_type = lookup(local.mime_types, regex("\\.[^.]+$", each.key), null)
   tags         = local.tags
 }
