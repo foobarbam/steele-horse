@@ -13,10 +13,9 @@ paginate = 20
 style = "github-dark"
 
 [params]
-  author = "Jeremy Chalfant"
-  info = "DevOps Engineer and Systems Administrator"
-  description = "Jeremy Chalfant's personal website"
-  keywords = "blog,developer,personal"
+  author = "Steele Horse LLC"
+  info = "DevOps, Cloud, and Systems Engineer"
+  keywords = "blog,developer,business,personal"
   avatarurl = "images/logo1-inverted.png"
   #gravatar = "jeremy.chalfant@protonmail.com"
 
@@ -31,7 +30,7 @@ style = "github-dark"
   colorScheme = "auto"
   hidecolorschemetoggle = false
 
-  # customCSS = ["css/custom.css"]
+  customCSS = ["css/custom.css"]
   # customSCSS = ["scss/custom.scss"]
   # customJS = ["js/custom.js"]
 
