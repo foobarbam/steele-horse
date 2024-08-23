@@ -1,9 +1,9 @@
 img[src$='#floatleft'] {
 	float:left;
-  margin: 10px 20px;
+  margin: 10px 25px;
 }
 
 img[src$='#floatright'] {
 	float:right;
-  margin: 10px 20px;
+  margin: 10px 25px 25px 25px;
 }
