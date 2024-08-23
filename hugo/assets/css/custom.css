@@ -1,9 +1,25 @@
 img[src$='#floatleft'] {
-	float:left;
+	float: left;
   margin: 10px 25px;
 }
 
 img[src$='#floatright'] {
-	float:right;
+	float: right;
   margin: 10px 25px 25px 25px;
+}
+
+@media screen and (max-width: 768px) {
+  img[src$='#floatleft'] {
+	  float: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  img[src$='#floatright'] {
+	  float: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
