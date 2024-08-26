@@ -7,11 +7,11 @@ draft = false
 
 ---------------------------
 
-Applications, Systems, Cloud, Infrastructure, and DevOps engineering with focus and expertise in automation for secure, consistent configuration, accurate, and repeatable deployments.
+[Applications](https://en.wikipedia.org/wiki/Application_software), [Infrastructure](http://www.stat.yale.edu/~mjk56/doc/ComputingInfrastructure.html), [Cloud](https://en.wikipedia.org/wiki/Cloud_computing), and [DevOps](https://www.ibm.com/topics/devops) engineering with focus and expertise in automation for secure, consistent, accurate, and repeatable deployments.
 
 ### Technologies
 
-Redhat/SUSE/Debian Linux, AIX, Windows, git, github, Active Directory, FreeIPA, Samba, MySQL/MariaDB, PostgreSQL, Oracle, Docker, Kubernetes, VMware, Jenkins, Chef, Ansible, and Vagrant.
+[Redhat](https://redhat.com)/[SUSE](https://suse.com)/[Debian](https://debian.org) Linux (including devirvatives), [AIX](https://www.ibm.com/products/aix), [Windows](https://www.microsoft.com/en-us/windows?r=1), [git](https://git-scm.com/), [github](https://github.com), [Active Directory](https://en.wikipedia.org/wiki/Active_Directory), [FreeIPA](https://www.freeipa.org/), [Samba](https://samba.org), [MySQL/MariaDB](https://mariadb.org/), [PostgreSQL](https://postgresql.org), [Oracle](https://oracle.com), [Docker](https://docker.io), [Kubernetes](https://kubernetes.io), [VMware](https://vmware.com), [Jenkins](https://jenkins.io), [Chef](https://chef.io), and [Ansible](https://ansible.com)
 
 ### Languages
 
