@@ -16,7 +16,7 @@ style = "github-dark"
   author = "Steele Horse LLC"
   info = "DevOps, Cloud, and Systems Engineer"
   keywords = "blog,developer,business,personal"
-  avatarurl = "images/logo1-inverted.png"
+  avatarurl = "/images/logo1-inverted.png"
   #gravatar = "jeremy.chalfant@protonmail.com"
 
   faviconSVG = "/images/logo1-inverted-favico.svg"
