@@ -34,6 +34,7 @@ Other make options are:
 
 ## To Dos
 
+* Move terraform state to S3
 * Add a real time visitor counter: https://cloudresumechallenge.dev/docs/extensions/realtime-counter/
 * Write some tests for any Python code.
 * CI/CD with GitHub Actions.  I am quite familiar with Jenkins but have never used GitHub Actions.
