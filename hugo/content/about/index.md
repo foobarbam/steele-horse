@@ -26,6 +26,7 @@ While acquiring my degree, I worked part time managing the network of a small ae
 
 Throughout my corporate career I have focused on Open Source technologies and cloud computing and the two are intertwined and forever married to one another.  The cloud and The Internet is built on [Linux](https://en.wikipedia.org/wiki/Linux) and my passion and extensive experience with these platforms can help your business transform.
 
+
 Services:
 
 * PC design, build, and repair;
@@ -41,5 +42,7 @@ Services:
 * Containerization of applications with [Docker](https://docker.io) or [Podman](https://podman.io);
 * Custom programming and data analysis algorithms;
 * Technology training and tutoring.
+
+We are available for any remote work and local work surrounding Wichita KS.
 
 ### ***Ready to transform your business? [Contact us](mailto:jeremy.chalfant@protonmail.com) today for a consultation.***
