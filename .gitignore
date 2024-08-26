@@ -4,3 +4,4 @@ terraform/terraform.tfvars
 hugo/public
 
 hugo/.hugo_build.lock
+tmp/
