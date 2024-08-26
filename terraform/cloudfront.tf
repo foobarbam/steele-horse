@@ -46,8 +46,8 @@ resource "aws_cloudfront_distribution" "this" {
     min_ttl                = 0
     #default_ttl            = 3600
     # For debugging - change back to 3 hours when dev is done
-    default_ttl            = 30
-    max_ttl                = 86400
+    default_ttl = 30
+    max_ttl     = 86400
 
     forwarded_values {
       query_string = false
