@@ -5,6 +5,8 @@ theme = "hugo-coder"
 
 paginate = 20
 
+enableRobotsTXT = true
+
 #[services]
 #[services.disqus]
 #disqusShortname = "yourdiscussshortname"
