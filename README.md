@@ -30,6 +30,7 @@ Other make options are:
 * `make clean`: Cleanup generated html
 * `make serve`: Generate all html and run a local development server.  Access at https://localhost:1313
 * `make plan`:  Run `terraform plan` dry run deployment.
+* `make apply`: Run `terraform apply` and deploy the site
 
 ## To Dos
 
