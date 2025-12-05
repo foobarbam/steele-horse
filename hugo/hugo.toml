@@ -3,7 +3,8 @@ languageCode = 'en-us'
 title = "Steele Horse LLC"
 theme = "hugo-coder"
 
-paginate = 20
+[paginatination]
+pagerSize = 20
 
 enableRobotsTXT = true
 
