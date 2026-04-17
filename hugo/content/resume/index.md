@@ -14,13 +14,24 @@ draft = false
 
 ### Technologies
 
-[Redhat](https://redhat.com)/[SUSE](https://suse.com)/[Debian](https://debian.org) Linux (including devirvatives), [AIX](https://www.ibm.com/products/aix), [Windows](https://www.microsoft.com/en-us/windows?r=1), [git](https://git-scm.com/), [github](https://github.com), [Active Directory](https://en.wikipedia.org/wiki/Active_Directory), [FreeIPA](https://www.freeipa.org/), [Samba](https://samba.org), [MySQL/MariaDB](https://mariadb.org/), [PostgreSQL](https://postgresql.org), [Oracle](https://oracle.com), [Docker](https://docker.io), [Kubernetes](https://kubernetes.io), [VMware](https://vmware.com), [Jenkins](https://jenkins.io), [Chef](https://chef.io), and [Ansible](https://ansible.com)
+[Openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift), [AWS](https://aws.amazon.com), [Redhat](https://redhat.com)/[SUSE](https://suse.com)/[Debian](https://debian.org) Linux (including devirvatives), [AIX](https://www.ibm.com/products/aix), [Windows](https://www.microsoft.com/en-us/windows?r=1), [git](https://git-scm.com/), [github](https://github.com), [Active Directory](https://en.wikipedia.org/wiki/Active_Directory), [FreeIPA](https://www.freeipa.org/), [Samba](https://samba.org), [MySQL/MariaDB](https://mariadb.org/), [PostgreSQL](https://postgresql.org), [Oracle](https://oracle.com), [Docker](https://docker.io), [Kubernetes](https://kubernetes.io), [VMware](https://vmware.com), [Jenkins](https://jenkins.io), [Chef](https://chef.io), and [Ansible](https://ansible.com)
 
 ### Languages
 
 [Bash](https://www.gnu.org/software/bash/), [Perl](https://perl.org), [Python](https://python.org), [Ruby](https://www.ruby-lang.org/), [PHP](https://php.net), and [C](https://en.wikipedia.org/wiki/C_(programming_language))
 
 ### Experience
+
+#### [Kansas Turnpike Authority](https://ksturnpike.com) - Senior Systems Administrator
+
+*December 2024 - Present*
+
+* 24x7 support for web hosting environment and business critical payment portal
+* Architecture and Security guidance and design for IT Infrastructure
+* Design and Support of Continuous Integration and Deployment systems
+* [PCI](https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard)
+  and Security scanning, patching, and configuration of payment systems
+
 
 #### [Armis Inc](https://armis.com) — Senior DevOps Engineer
 
@@ -31,7 +42,7 @@ draft = false
 * Kubernetes/[AWS EKS](https://aws.amazon.com/eks/) cluster management and development of [Helm](https://helm.sh/) based deployment packages for [Sumo Logic](https://www.sumologic.com/), [Prometheus)(https://prometheus.io/) monitoring services, and Armis platform microservices
 * [AWS EC2](https://aws.amazon.com/ec2/) [AMI](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html) [Packer](https://www.packer.io/) with Ansible build automation for [Red Hat Linux DoD STIG](https://www.stigviewer.com/stig/red_hat_enterprise_linux_8/) compliant EKS node EC2 instances
 
-### [IBM](https://ibm.com) - Server Systems Analyst, SmartCloud Enterprise Plus UNIX Infrastructure Lead, Cloud Automation Architect
+#### [IBM](https://ibm.com) - Server Systems Analyst, SmartCloud Enterprise Plus UNIX Infrastructure Lead, Cloud Automation Architect
 
 *April 2010 - July 2020*
 
@@ -51,7 +62,7 @@ draft = false
 * Last level support of enterprise batch-processing system, including development and support of customer designed and implemented web-based front-end
 * Support and management of customer's [WSSO](https://en.wikipedia.org/wiki/Single_sign-on) solutions using [IBM's Tivoli Access Manager for e-Business (WebSeal)](https://www.ibm.com/docs/en/samfm/8.0.1?topic=web-webseal-overview), Active Directory, and [IBM Edge Server](https://www.ibm.com/docs/en/cloud-private/3.2.0?topic=edge-computing-servers) for High availability and load-balancing
 
-### [Spirit AeroSystems](https://spiritaero.com) — Systems Design and Integration Specialist
+#### [Spirit AeroSystems](https://spiritaero.com) — Systems Design and Integration Specialist
 
 *May 2006 - April 2010*
 

@@ -1,13 +1,13 @@
 # Cloud Resume Challenge
 
-This repository contains all the code and content for my website.  It
+This repository contains the code and content for my website.  It
 is hosted on [AWS](https://aws.amazon.com), uses [terraform](https://terraform.io)
-to manage the virtual infrastructure, and [Hugo](https://gohugo.io) as the website content
-mangement system.
+to deploy the virtual infrastructure, and [Hugo](https://gohugo.io) as the
+website content mangement system.
 
 While in the market for a new job my [friend's blog](https://landadevopsjob.com/blog/terraform-certification-the-last-resort/)
-suggests [The Cloud Resume Challenge](https://cloudresumechallenge.dev/) and this repository
-is the result of that.  I opted for the [AWS](https://cloudresumechallenge.dev/docs/the-challenge/aws/)
+suggests [The Cloud Resume Challenge](https://cloudresumechallenge.dev/) and
+this repository is the result of that.  I opted for the [AWS](https://cloudresumechallenge.dev/docs/the-challenge/aws/)
 with [terraform](https://cloudresumechallenge.dev/docs/extensions/terraform-getting-started/)
 challenge and here we are.
 

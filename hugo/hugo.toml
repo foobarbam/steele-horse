@@ -12,8 +12,12 @@ enableRobotsTXT = true
 #[services.disqus]
 #disqusShortname = "yourdiscussshortname"
 
-[markup.highlight]
-style = "github-dark"
+[markup]
+  [markup.highlight]
+    style = "github-dark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = false
 
 [params]
   author = "Steele Horse LLC"
